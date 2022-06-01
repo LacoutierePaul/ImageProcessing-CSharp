@@ -1,0 +1,60 @@
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.pdb
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe.config
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\paull\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.pdb
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe.config
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\Mon Drive\ESILV A2 S2\Algorithme\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.pdb
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\MIGEOT_DE_BARAN-LACOUTIERE2.PSI.exe.config
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\benoi\source\repos\MIGEOT_DE_BARAN-LACOUTIERE2.PSI Version Finale\MIGEOT_DE_BARAN-LACOUTIERE2.PSI\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
